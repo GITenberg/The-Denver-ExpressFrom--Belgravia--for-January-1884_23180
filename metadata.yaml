@@ -1,0 +1,30 @@
+_repo: The-Denver-ExpressFrom--Belgravia--for-January-1884_23180
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hayes, Augustus Allen
+    alias: Hayes, A. A. (Augustus Allen)
+    birthdate: 1837
+    deathdate: 1892
+    gutenberg_agent_id: '25728'
+    url: http://www.gutenberg.org/2009/agents/25728
+description: ''
+gutenberg_issued: '2007-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23180'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Train robberies -- Fiction'
+- !lcc 'PS'
+title: 'The Denver Express
+
+  From "Belgravia" for January, 1884'
+url: http://www.gutenberg.org/ebooks/23180
